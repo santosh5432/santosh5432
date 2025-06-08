@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Santosh Yadav
 
-<!--
-**santosh5432/santosh5432** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Mobile App Developer | Kotlin Multiplatform (KMP) | Compose Multiplatform | Android Expert
 
-Here are some ideas to get you started:
+I'm a mobile developer with 12+ years of experience. I specialize in Android and cross-platform app development using Kotlin Multiplatform (KMP) and Compose Multiplatform. I've built apps in GPS tracking, fintech, OTT, and more — for both Android and iOS from a single codebase.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧩 My Tech Stack
+- 🧠 **Languages**: Kotlin, Java, Swift (basic), JavaScript
+- 🎨 **UI Frameworks**: Jetpack Compose, Compose Multiplatform
+- 🛠️ **Tools**: Android Studio, Xcode, Git, Gradle, SQLDelight, Ktor, Hilt/Koin
+- 🌐 **Platforms**: Android, iOS (via KMP), Web (basic)
+
+## 📫 Let's Connect!
+- 🔗 [LinkedIn](https://www.linkedin.com/in/santosh-yadav-235a8633/)
+- 📘 [Medium](https://medium.com/@santosh_yadav321)
