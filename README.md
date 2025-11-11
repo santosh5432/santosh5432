@@ -1,6 +1,6 @@
 <!-- Optional banner (replace with your own or remove if you prefer no banner) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="coding" width="80%" />
+  <img src="https://github.com/santosh5432/santosh5432/blob/main/santosh.png" alt="coding" width="80%" />
 </p>
 
 <!-- Banner -->
