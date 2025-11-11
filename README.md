@@ -22,7 +22,6 @@ Mobile engineer with **12+ years** experience building modern, scalable apps acr
 I specialize in:
 - **Kotlin Multiplatform (KMP)**
 - **Compose Multiplatform**
-- **Offline-first architecture**
 - **Google Maps, real-time tracking, buffered animations**
 - **Python backend APIs using FastAPI / Django**
 
@@ -45,7 +44,7 @@ Clean Architecture • MVVM • MVI • Modular Architecture
 Retrofit • Ktor • Room • SQLDelight • Coroutines • RxJava • BLE • Firebase
 
 ### **Tools**
-Android Studio • Xcode • GitHub • Jenkins • Bitrise • CI/CD Pipelines
+Android Studio • Xcode • GitHub • Jenkins • CI/CD Pipelines
 
 ---
 
@@ -76,15 +75,27 @@ This allows me to deliver **full-stack mobile + backend solutions** for clients.
 
 ## 📌 Featured Projects
 
-### 🔹 Kotlin Multiplatform Vehicle Tracking
+### 🔹TRAQR - Kotlin Multiplatform Vehicle Tracking (Play Store)
+Cross-platform app for Android & iOS:
+- Real-time tracking
+- History replay  
+- Buffered polyline animation  
+- Offline support  
+- Smooth vehicle movement on map
+- Shared business logic  
+**Tech:** KMP, Coroutines, Google Maps, Jetpack Compose
+✅ Published on Play Store.
+---
+
+### 🔹Where is My School Bus ? - Kotlin Multiplatform Vehicle Tracking (Play Store)
 Cross-platform app for Android & iOS:
 - Real-time tracking  
 - Buffered polyline animation  
 - Offline support  
-- Smooth camera movement  
+- Smooth vehicle movement on map
 - Shared business logic  
-**Tech:** KMP, Coroutines, Google Maps, Compose
-
+**Tech:** KMP, Coroutines, Google Maps, Jetpack Compose
+✅ Published on Play Store.
 ---
 
 ### 🔹 NoteIt – Productivity App (Play Store)
@@ -102,21 +113,40 @@ Automation tool built with Android Accessibility Services:
 
 ---
 
-### 🔹 TCMobile & TCTablet (Enterprise)
+### 🔹 TCMobile & TCTablet (Play Store)
 Fire incident management:
 - Offline editing  
 - ArcGIS integration  
 - Real-time sync  
 - Tablet UI
+✅ Published on Play Store.
+---
 
+### 🔹 mSwift (Play Store)
+Fintech - Bill payment, Recharge, AEPS Services:
+- Bill payment 
+- Recharge  
+- AEPS (Aadhaar Enabled Payment System)
+- Paytm, Razorpay payment gateways integration
+✅ Published on Play Store.
 ---
 
 ## 📱 Live Apps
 
-### ✅ NoteIt (Play Store)
+### ✅ NoteIt 
 [<img src="https://img.shields.io/badge/Play_Store-4285F4?style=for-the-badge&logo=google-play&logoColor=white">](https://play.google.com/store/apps/details?id=com.learning.roots.noteit)
 
-(Add more once you share your Play Store links.)
+### ✅ TRAQR 
+[<img src="https://img.shields.io/badge/Play_Store-4285F4?style=for-the-badge&logo=google-play&logoColor=white">](https://play.google.com/store/apps/details?id=traqr.traqr)
+
+### ✅ Where is My School Bus ? 
+[<img src="https://img.shields.io/badge/Play_Store-4285F4?style=for-the-badge&logo=google-play&logoColor=white">](https://play.google.com/store/apps/details?id=traqr.whereismyschoolbus)
+
+### ✅ TC Mobile
+[<img src="https://img.shields.io/badge/Play_Store-4285F4?style=for-the-badge&logo=google-play&logoColor=white">](https://play.google.com/store/apps/details?id=com.tabletcommand.tcmobile)
+
+### ✅ mSwift
+[<img src="https://img.shields.io/badge/Play_Store-4285F4?style=for-the-badge&logo=google-play&logoColor=white">](https://play.google.com/store/apps/details?id=com.qst.mswift)
 
 ---
 
