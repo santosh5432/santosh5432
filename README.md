@@ -3,60 +3,122 @@
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="coding" width="80%" />
 </p>
 
-# 👋 Hi, I'm Santosh Yadav
+<h1 align="center">👋 Hi, I'm Santosh Yadav</h1>
+<h3 align="center">Android & iOS Developer | Kotlin Multiplatform (KMP) | Compose Multiplatform Specialist</h3>
 
-🚀 **Mobile App Developer** | Kotlin Multiplatform (KMP) | Compose Multiplatform | Android Expert
+<p align="center">
+  <a href="https://www.linkedin.com/in/santosh-yadav-235a8633/">LinkedIn</a> •
+  <a href="https://github.com/santosh5432">GitHub</a> •
+  <a href="https://medium.com/@santosh_yadav321">Medium</a> •
+  <a href="mailto:santosh_yadav321@yahoo.com">Email</a>
+</p>
 
-I have over **12 years of experience**, specializing in Android development and now actively building cross-platform apps using **Kotlin Multiplatform (KMP)**.
+---
 
-I’ve led and developed 20+ apps across industries like **GPS tracking, fintech, OTT, and utilities**. I'm well-versed in **Jetpack Compose, MVVM architecture**, and **clean code principles**. Recently, I’ve been building modern apps for both **Android and iOS** using **Compose Multiplatform** with **Ktor**, **SQLDelight**, and **Koin**.
+## 🚀 About Me
+I’m a mobile engineer with **12+ years** of building production-grade apps across **Android, iOS, and Kotlin Multiplatform**.
 
-I focus on **scalable, maintainable code**, and bring deep experience in **app architecture, UI/UX**, and **platform-specific optimizations**. Whether you're looking for an Android expert or need a cross-platform app from a single codebase, I can help deliver high-quality results.
+I specialize in:
+- Cross-platform development using **Kotlin Multiplatform (KMP)**
+- Modern UI using **Jetpack Compose & Compose Multiplatform**
+- Real-time tracking, Google Maps workflows, offline-first architectures
+- High-performance, scalable, clean architecture based applications
 
+I enjoy designing systems that are **clean, predictable, scalable, and truly cross-platform**.
 
-## 🧩 My Tech Stack
+---
 
-## 🧠 Languages
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+## 🛠 Tech Stack
 
-## 🎨 UI Frameworks
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat&logo=android&logoColor=white)
-![Compose Multiplatform](https://img.shields.io/badge/Compose%20Multiplatform-FF6F00?style=flat&logo=kotlin&logoColor=white)
+### **Languages**
+Kotlin • Java • Swift • SQL • XML • JSON
 
-## 🧰 Tools & Platforms
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white)
+### **Mobile Platforms**
+Android • iOS • Kotlin Multiplatform • Compose Multiplatform
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
-![iOS (KMP)](https://img.shields.io/badge/iOS(KMP)-000000?style=flat&logo=apple&logoColor=white)
-![Web (basic)](https://img.shields.io/badge/Web-basic-blue?style=flat&logo=google-chrome&logoColor=white)
+### **Architecture**
+MVVM • Clean Architecture • MVI • Modular Architecture
 
-## 🔌 Backend & Dependency Injection
-![Ktor](https://img.shields.io/badge/Ktor-0095D5?style=flat&logo=ktor&logoColor=white)
-![Koin](https://img.shields.io/badge/Koin-6200EA?style=flat&logo=kotlin&logoColor=white)
-![Hilt](https://img.shields.io/badge/Hilt-34A853?style=flat&logo=android&logoColor=white)
+### **Frameworks & Libraries**
+Jetpack • Hilt • Koin • Retrofit • Ktor • Room • SQLDelight • BLE • Firebase
 
-## 🗄️ Databases
-![SQLDelight](https://img.shields.io/badge/SQLDelight-336791?style=flat&logo=sqlite&logoColor=white)
-![Room](https://img.shields.io/badge/Room-FF6D00?style=flat&logo=android&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+### **Tools**
+Android Studio • Xcode • GitHub • Jenkins • Bitrise • CI/CD pipelines
 
-## 🏗️ Architecture Patterns
-![MVVM](https://img.shields.io/badge/MVVM-blue?style=flat)
-![MVI](https://img.shields.io/badge/MVI-green?style=flat)
-![MVP](https://img.shields.io/badge/MVP-orange?style=flat)
-![MVC](https://img.shields.io/badge/MVC-purple?style=flat)
+---
 
-## 📫 Let's Connect
+## 📌 Featured Projects (Pinned Repos Recommended)
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/santosh-yadav-235a8633/)
-- 📘 [Medium](https://medium.com/@santosh_yadav321)
-- 🛠️ [GitHub](https://github.com/santosh-yadav)
+### 🔹 **Kotlin Multiplatform Vehicle Tracking**
+Cross-platform KMP tracking solution with:
+- Live GPS tracking  
+- Buffered polyline animation  
+- Smooth camera movement  
+- Offline support  
+- Shared business logic for Android & iOS  
+
+**Tech:** KMP, Coroutines, Google Maps, Compose
+
+---
+
+### 🔹 **NoteIt – Productivity App (Play Store)**
+A Jetpack Compose app featuring:
+- Notes  
+- To-do lists  
+- Reminders  
+Built with MVVM + Clean Architecture.
+
+---
+
+### 🔹 **WhatsApp Automation Bot**
+Built using Android Accessibility Services:
+- Reads notifications  
+- Triggers scheduled actions  
+- Automates UI interactions  
+
+---
+
+### 🔹 **TCMobile & TCTablet (Enterprise Apps)**
+Real-time fire incident management:
+- Offline editing  
+- ArcGIS integration  
+- Multi-role access  
+- Multi-device support
+
+---
+
+## ✍️ Latest Articles
+I share insights, experiments, and tutorials on Medium:
+
+- Kotlin Multiplatform best practices  
+- Google Maps animations  
+- Compose Multiplatform  
+- Architecture patterns  
+
+👉 **Medium:** https://medium.com/@santosh_yadav321
+
+---
+
+## 📈 GitHub Stats (Optional)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=santosh5432&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santosh5432&layout=compact&theme=tokyonight" height="150"/>
+</p>
+
+---
+
+## 🤝 Open to Opportunities
+I'm available for:
+✅ Freelance Android / iOS projects  
+✅ Kotlin Multiplatform / Compose Multiplatform  
+✅ Consulting & long-term contracts  
+✅ Architecture design & code reviews  
+
+📧 **Email:** santosh_yadav321@yahoo.com  
+💬 **LinkedIn:** Message anytime  
+
+---
+
+⭐️ *If you like my work, feel free to star a repo or connect with me!*
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=2F80ED&width=1000&lines=Android+and+iOS+Apps+from+One+Codebase+using+KMP;Compose+UI+Specialist+%F0%9F%94%A5;Clean+Architecture+Advocate;Let%E2%80%99s+build+something+awesome+together!)
