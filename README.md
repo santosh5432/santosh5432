@@ -151,8 +151,17 @@ Fintech - Bill payment, Recharge, AEPS Services:
 ---
 
 ## ✍️ Latest Articles
-I write about KMP, Compose, and architecture on Medium:  
+I write about KMP, Compose, Kotlin and architecture on Medium:  
 👉 https://medium.com/@santosh_yadav321
+
+### 🔹 [Coil Image Loading in Kotlin Multiplatform (KMP) with Compose Multiplatform UI — Android & iOS](https://medium.com/@santosh_yadav321/coil-image-loading-in-kotlin-multiplatform-kmp-with-compose-multiplatform-ui-android-ios-483e416af64f)
+Coil (Coroutine Image Loader) is an image loading library backed by Kotlin Coroutines. It’s designed to be fast, lightweight, and highly customizable.
+
+### 🔹 [How ViewModel Survives Configuration Changes in Android?](https://medium.com/@santosh_yadav321/know-your-viewmodel-internals-in-minutes-25c8b8078ffe)
+In Android development, ViewModel is a key architecture component designed to manage and store UI-related data in a lifecycle-aware manner. It acts as a bridge between the UI and business logic, allowing your app to survive configuration changes
+
+### 🔹 [Creating a Cross-Platform App with Kotlin Multiplatform and Shared UI in Compose Multiplatform](https://medium.com/@santosh_yadav321/creating-a-cross-platform-app-with-kotlin-multiplatform-and-shared-ui-in-compose-a20fc8d3c987)
+In today’s fast-moving app development landscape, building separate apps for Android and iOS can quickly become time-consuming, expensive, and error-prone. Kotlin Multiplatform (KMP) offers a powerful solution: share core logic — including networking, business rules, and even UI — across platforms, all while preserving native performance and flexibility.
 
 ---
 
