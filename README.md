@@ -3,8 +3,9 @@
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="coding" width="80%" />
 </p>
 
+<!-- Banner -->
 <h1 align="center">👋 Hi, I'm Santosh Yadav</h1>
-<h3 align="center">Android & iOS Developer | Kotlin Multiplatform (KMP) | Compose Multiplatform Specialist</h3>
+<h3 align="center">Android & iOS Developer | Kotlin Multiplatform (KMP) | Compose Multiplatform Specialist | Python Backend Developer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/santosh-yadav-235a8633/">LinkedIn</a> •
@@ -16,109 +17,128 @@
 ---
 
 ## 🚀 About Me
-I’m a mobile engineer with **12+ years** of building production-grade apps across **Android, iOS, and Kotlin Multiplatform**.
+Mobile engineer with **12+ years** experience building modern, scalable apps across Android, iOS, and Kotlin Multiplatform.
 
 I specialize in:
-- Cross-platform development using **Kotlin Multiplatform (KMP)**
-- Modern UI using **Jetpack Compose & Compose Multiplatform**
-- Real-time tracking, Google Maps workflows, offline-first architectures
-- High-performance, scalable, clean architecture based applications
+- **Kotlin Multiplatform (KMP)**
+- **Compose Multiplatform**
+- **Offline-first architecture**
+- **Google Maps, real-time tracking, buffered animations**
+- **Python backend APIs using FastAPI / Django**
 
-I enjoy designing systems that are **clean, predictable, scalable, and truly cross-platform**.
+I love creating robust cross-platform systems with clean architecture and predictable performance.
 
 ---
 
 ## 🛠 Tech Stack
 
-### **Languages**
-Kotlin • Java • Swift • SQL • XML • JSON
+### **Mobile Development**
+Android • iOS • Kotlin Multiplatform • Compose Multiplatform • Jetpack • Hilt • Koin
 
-### **Mobile Platforms**
-Android • iOS • Kotlin Multiplatform • Compose Multiplatform
+### **Languages**
+Kotlin • Java • Swift • SQL • XML • JSON • Python
 
 ### **Architecture**
-MVVM • Clean Architecture • MVI • Modular Architecture
+Clean Architecture • MVVM • MVI • Modular Architecture
 
 ### **Frameworks & Libraries**
-Jetpack • Hilt • Koin • Retrofit • Ktor • Room • SQLDelight • BLE • Firebase
+Retrofit • Ktor • Room • SQLDelight • Coroutines • RxJava • BLE • Firebase
 
 ### **Tools**
-Android Studio • Xcode • GitHub • Jenkins • Bitrise • CI/CD pipelines
+Android Studio • Xcode • GitHub • Jenkins • Bitrise • CI/CD Pipelines
 
 ---
 
-## 📌 Featured Projects (Pinned Repos Recommended)
+## 🐍 Python Backend Skills
+I also build backend systems, APIs, automation tools, and admin dashboards using Python.
 
-### 🔹 **Kotlin Multiplatform Vehicle Tracking**
-Cross-platform KMP tracking solution with:
-- Live GPS tracking  
+**What I use Python for:**
+- FastAPI & Django REST APIs for mobile apps  
+- Authentication, JWT, user management  
+- WebSocket real-time event pipelines  
+- Automation scripts (ETL, notifications, log processing)  
+- Admin dashboards (Streamlit / Django Admin)  
+- Push notification servers (FCM/APNs backend logic)  
+- Backend for tracking systems, analytics, scheduling
+
+**Tech I work with:**
+- FastAPI  
+- Django REST Framework  
+- PostgreSQL / MySQL  
+- Redis  
+- Celery  
+- Pandas / NumPy  
+- AWS / Render / Railway
+
+This allows me to deliver **full-stack mobile + backend solutions** for clients.
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 Kotlin Multiplatform Vehicle Tracking
+Cross-platform app for Android & iOS:
+- Real-time tracking  
 - Buffered polyline animation  
-- Smooth camera movement  
 - Offline support  
-- Shared business logic for Android & iOS  
-
+- Smooth camera movement  
+- Shared business logic  
 **Tech:** KMP, Coroutines, Google Maps, Compose
 
 ---
 
-### 🔹 **NoteIt – Productivity App (Play Store)**
-A Jetpack Compose app featuring:
-- Notes  
-- To-do lists  
-- Reminders  
-Built with MVVM + Clean Architecture.
+### 🔹 NoteIt – Productivity App (Play Store)
+Built using Jetpack Compose + Clean Architecture.  
+Includes notes, tasks, reminders.  
+✅ Published on Play Store.
 
 ---
 
-### 🔹 **WhatsApp Automation Bot**
-Built using Android Accessibility Services:
+### 🔹 WhatsApp Automation Bot
+Automation tool built with Android Accessibility Services:
 - Reads notifications  
-- Triggers scheduled actions  
-- Automates UI interactions  
+- Schedules messages  
+- Triggers workflows  
 
 ---
 
-### 🔹 **TCMobile & TCTablet (Enterprise Apps)**
-Real-time fire incident management:
+### 🔹 TCMobile & TCTablet (Enterprise)
+Fire incident management:
 - Offline editing  
 - ArcGIS integration  
-- Multi-role access  
-- Multi-device support
+- Real-time sync  
+- Tablet UI
+
+---
+
+## 📱 Live Apps
+
+### ✅ NoteIt (Play Store)
+[<img src="https://img.shields.io/badge/Play_Store-4285F4?style=for-the-badge&logo=google-play&logoColor=white">](https://play.google.com/store/apps/details?id=com.learning.roots.noteit)
+
+(Add more once you share your Play Store links.)
 
 ---
 
 ## ✍️ Latest Articles
-I share insights, experiments, and tutorials on Medium:
-
-- Kotlin Multiplatform best practices  
-- Google Maps animations  
-- Compose Multiplatform  
-- Architecture patterns  
-
-👉 **Medium:** https://medium.com/@santosh_yadav321
-
----
-
-## 📈 GitHub Stats (Optional)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=santosh5432&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santosh5432&layout=compact&theme=tokyonight" height="150"/>
-</p>
+I write about KMP, Compose, and architecture on Medium:  
+👉 https://medium.com/@santosh_yadav321
 
 ---
 
 ## 🤝 Open to Opportunities
-I'm available for:
-✅ Freelance Android / iOS projects  
-✅ Kotlin Multiplatform / Compose Multiplatform  
-✅ Consulting & long-term contracts  
-✅ Architecture design & code reviews  
+✅ Freelance Android / iOS apps  
+✅ Kotlin Multiplatform projects  
+✅ Backend APIs with Python  
+✅ Long-term consulting  
+✅ Architecture & code reviews  
 
 📧 **Email:** santosh_yadav321@yahoo.com  
-💬 **LinkedIn:** Message anytime  
+💬 **LinkedIn:** Connect anytime  
 
 ---
 
 ⭐️ *If you like my work, feel free to star a repo or connect with me!*
+
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=2F80ED&width=1000&lines=Android+and+iOS+Apps+from+One+Codebase+using+KMP;Compose+UI+Specialist+%F0%9F%94%A5;Clean+Architecture+Advocate;Let%E2%80%99s+build+something+awesome+together!)
