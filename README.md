@@ -85,6 +85,7 @@ Cross-platform app for Android & iOS:
 - Shared business logic  
 **Tech:** KMP, Coroutines, Google Maps, Jetpack Compose
 ✅ Published on Play Store.
+
 ---
 
 ### 🔹Where is My School Bus ? - Kotlin Multiplatform Vehicle Tracking (Play Store)
@@ -96,6 +97,7 @@ Cross-platform app for Android & iOS:
 - Shared business logic  
 **Tech:** KMP, Coroutines, Google Maps, Jetpack Compose
 ✅ Published on Play Store.
+
 ---
 
 ### 🔹 NoteIt – Productivity App (Play Store)
@@ -129,6 +131,7 @@ Fintech - Bill payment, Recharge, AEPS Services:
 - AEPS (Aadhaar Enabled Payment System)
 - Paytm, Razorpay payment gateways integration
 ✅ Published on Play Store.
+
 ---
 
 ## 📱 Live Apps
