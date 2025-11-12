@@ -82,8 +82,10 @@ Cross-platform app for Android & iOS:
 - Buffered polyline animation  
 - Offline support  
 - Smooth vehicle movement on map
-- Shared business logic  
+- Shared business logic
+  
 **Tech:** KMP, Coroutines, Google Maps, Jetpack Compose
+
 ✅ Published on Play Store.
 
 ---
@@ -94,8 +96,10 @@ Cross-platform app for Android & iOS:
 - Buffered polyline animation  
 - Offline support  
 - Smooth vehicle movement on map
-- Shared business logic  
+- Shared business logic
+  
 **Tech:** KMP, Coroutines, Google Maps, Jetpack Compose
+  
 ✅ Published on Play Store.
 
 ---
@@ -103,6 +107,7 @@ Cross-platform app for Android & iOS:
 ### 🔹 NoteIt – Productivity App (Play Store)
 Built using Jetpack Compose + Clean Architecture.  
 Includes notes, tasks, reminders.  
+
 ✅ Published on Play Store.
 
 ---
@@ -121,7 +126,9 @@ Fire incident management:
 - ArcGIS integration  
 - Real-time sync  
 - Tablet UI
+  
 ✅ Published on Play Store.
+
 ---
 
 ### 🔹 mSwift (Play Store)
@@ -130,6 +137,7 @@ Fintech - Bill payment, Recharge, AEPS Services:
 - Recharge  
 - AEPS (Aadhaar Enabled Payment System)
 - Paytm, Razorpay payment gateways integration
+  
 ✅ Published on Play Store.
 
 ---
